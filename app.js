@@ -1,7 +1,8 @@
-
 /**Cloud9 
  * Module dependencies. 
  */
+
+// 試しにコメント追加した
 
 var express = require('express')  , routes = require('./routes');
 
